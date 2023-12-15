@@ -2,7 +2,7 @@
 At the moment I am developing in the field of front-end, but I also plan to master the back-end component of web development.
 
 
-## Skills
+## My skills
 
 ### Front-end
 <p align="left">
