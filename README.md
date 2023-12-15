@@ -1,5 +1,6 @@
 # Yevhenii - Front-end developer
 At the moment I am developing in the field of front-end, but I also plan to master the back-end component of web development.
+Always open to new suggestions :)
 
 
 ## My skills
