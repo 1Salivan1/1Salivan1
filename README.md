@@ -1,4 +1,4 @@
-# My name is Yevhenii and I'm Front-end developer
+# My name is Yevgeny and I'm Front-end developer
 
 I am a junior front-end developer, based in the Dnepropetrovsk region/Ukraine. At the moment, in addition to the frontend, I’m learning the basics of the backend a little.
 
