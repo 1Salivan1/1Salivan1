@@ -2,12 +2,6 @@
 
 I am a junior front-end developer, based in the Dnepropetrovsk region/Ukraine. At the moment, in addition to the frontend, I’m learning the basics of the backend a little.
 
-My current goals:
-
-- Learn more about Node.js, mongoDB, PostgreSQL.
-- Learn Vue/Nuxt
-- Maybe learn Nest.js
-
 I'm almost always in touch :)
 
 **_Discord:_** .salivan
