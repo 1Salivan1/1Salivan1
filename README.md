@@ -53,6 +53,6 @@ I'm almost always in touch :)
 <b>My Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Salivan1&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Salivan1&layout=donut&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=1Salivan1&show_icons=true&theme=dark" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Salivan1&layout=donut&theme=dark" height="190">
 </p>
