@@ -48,9 +48,7 @@ I'm almost always in touch :)
 </a>
 </div>
 
-### Badges
-
-<b>My Stats</b>
+### My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1Salivan1&show_icons=true&theme=dark" height="190">
