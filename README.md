@@ -52,8 +52,9 @@ I'm almost always in touch :)
 
 <b>My Stats</b>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=1Salivan1&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=1Salivan1&show_icons=true&theme=dark" width="350">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Salivan1&layout=donut-vertical&theme=dark" width="350">
 
 
 
